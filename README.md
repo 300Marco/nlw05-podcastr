@@ -1,16 +1,24 @@
 # Podcastr
 
 <p align="center">
-    <img src />
+    <img src="./github/page-podcastr.png" />
 </p>
 
-### Este projeto esta sendo desenvolvido durante a Next Level Week #05 😀
+## 💻 Projeto
+
+### Este projeto foi desenvolvido durante a Next Level Week #05 😀
 <br>
-O Podcastr, está sendo desenvolvido durante a NL@#05 com o grande instrutor Fiego Fernandes.
 
-O projeto para esta edição da NLW#05 é o Podcastr, uma Aplicação Web, para ouvirmos podcasts. Para este objetivo estamos utilizando algumas tecnologias como ReactJS, Next.JS, TypeScript, Sass, Json e muitas ferramentas de Desenvolvimento. 
+O Podcastr, é uma Aplicação Web, para ouvirmos podcasts. Para este objetivo utilizamos algumas tecnologias como ReactJS, Next.JS, TypeScript, Sass, Json e outras ferramentas de Desenvolvimento. 
 
-A cada dia que avançamos novos conceitos e formas de chegar aos resultados são apresentados, e tudo é passado com muita prática e mão na massa.
+Durante a semana em que avançamos novos conceitos e formas de chegar aos resultados foram apresentados, e tudo foi passando com muita prática e mão na massa.
+<br>
+<br>
+
+<p align="center">
+    <img src="./github/page-Podcastr.gif" />
+</p>
+
 <br>
 <br>
 
@@ -21,7 +29,6 @@ A cada dia que avançamos novos conceitos e formas de chegar aos resultados são
  - VSCode
 
 ## Execute o projeto
-<br>
 
 ### Requisitos
  - Instale o [Node.js](https://nodejs.org/en/download/)
